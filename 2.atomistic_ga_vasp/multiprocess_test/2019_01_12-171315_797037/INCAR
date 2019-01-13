@@ -1,0 +1,17 @@
+INCAR created by Atomic Simulation Environment
+ POTIM = 0.500000
+ ENCUT = 400.000000
+ SIGMA = 0.200000
+ EDIFF = 1.00e-04
+ EDIFFG = -3.00e-02
+ PREC = Normal
+ GGA = PE
+ ISMEAR = 1
+ ISTART = 0
+ ICHARG = 2
+ IBRION = -1
+ ISYM = 1
+ NSW = 0
+ ISPIN = 2
+ ISIF = 2
+ LREAL = .FALSE.
