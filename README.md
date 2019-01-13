@@ -1,1 +1,1 @@
-Atomistic GA project for structural optimization of catalytic materials
+Atomistic GA project for structural optimization of catalytic materials.
